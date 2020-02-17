@@ -1,0 +1,34 @@
+{
+  "name": "livestream-ideas",
+  "version": "1.0.0",
+  "description": "Livestream-ideas ================ Creating a simple real-time application using Feathers.js, Socket.io & Express that will allow livestream viewers to suggest project ideas to the streamer.",
+  "main": "index.js",
+  "dependencies": {
+    "eslint-config-node": "^4.0.0",
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "prettier": "^1.19.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.18.3",
+    "eslint-plugin-react-hooks": "^1.7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcinBalejko/livestream-ideas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcinBalejko/livestream-ideas/issues"
+  },
+  "homepage": "https://github.com/MarcinBalejko/livestream-ideas#readme"
+}
