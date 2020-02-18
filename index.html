@@ -137,6 +137,9 @@
 
         // Add existing ideas to list
         ideas.forEach(renderIdea);
+
+        // Add idea in realtime
+        app.service('ideas').on('created', renderIdea);
       }
 
       init();
